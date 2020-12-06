@@ -1,0 +1,9 @@
+Package: redcan
+Version: 1.1
+Section: custom
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 2048
+Maintainer: Francis Lin <francis.lin@redcan.com>
+Description: Waits for kill/termination signal.
