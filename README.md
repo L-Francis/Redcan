@@ -8,7 +8,7 @@ For step by step instructions to build Redcan as deliverables, refer this articl
 
 - [Redcan KB - How to Build Redcan as Deliverables](https://github.com/L-Francis/Redcan/blob/main/Redcan%20KB%20-%20How%20to%20Build%20Redcan%20as%20Deliverables.pdf)
 
-The relevant resources to use with this article are listed in the following directories.
+The relevant resources to use with these articles are listed in the following directories.
 
 - [Resources](resources)
   - Debian Assets
